@@ -46,5 +46,19 @@
     </LinearLayout>
     </androidx.cardview.widget.CardView>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:text="Regisztracio"
+        android:id="@+id/registerButton"
+        android:textSize="20sp"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:text="Regisztralt felhasznalok megnezese"
+        android:id="@+id/registeredUserListButton"
+        android:textSize="20sp"/>
 </LinearLayout>
